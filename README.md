@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DreamK2826
-- 👀 I’m interested in ...  电路设计，PC硬件，航拍无人机，相机
+- 👀 I’m interested in ...  电路设计，PC硬件，单片机，Android
 - 🌱 I’m currently learning ... Html，CSS，js，
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
