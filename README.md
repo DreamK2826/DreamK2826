@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DreamK2826
 - 👀 I’m interested in ...  电路设计，PC硬件，单片机，Android
-- 🌱 I’m currently learning ... Html，CSS，js，
+- 🌱 I’m currently learning ... Android Studio，STM32 CubeMX, Arduino, Html，CSS，js，Python,Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
