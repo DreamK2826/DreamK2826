@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @DreamK2826
-- 👀 I’m interested in ...  
-- 电路设计，PC硬件，单片机，Android
-- 🌱 I’m currently learning ... 
-- Android Studio，STM32 CubeMX, Arduino, Html，CSS，js，Python,Java
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamK2826)](https://github.com/anuraghazra/github-readme-stats)
-- 
-- 📫 How to reach me ... 
-[- https://www.bilibili.com/](https://space.bilibili.com/302504604)
+
